@@ -15,7 +15,7 @@
 <a href="https://instagram.com/pratik._.vernekar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratik._.vernekar" height="30" width="40" /></a>
 </p>
 <h2 align="center"></h2>
-- 🌱 I’m currently learning <strong>Node.js</strong>
+- 🌱 I’m currently learning <strong>Node.js</strong>👨🏻‍💻
 
 - 📫 How to reach me **vernekarpratik26.pv@gmail.com**
 
