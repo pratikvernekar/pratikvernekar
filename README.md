@@ -15,6 +15,11 @@
 
 ---
 
+## 🌐 Portfolio  
+🔗 **Check out my work:** [Portfolio](https://portfolio-black-three-62.vercel.app/)  
+
+---
+
 ## 🛠️ Tech Stack & Tools  
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,redux,javascript,typescript,html,css,git,github,vscode" />
